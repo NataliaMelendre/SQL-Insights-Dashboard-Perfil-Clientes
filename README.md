@@ -1,4 +1,4 @@
-# 🧩 Projeto: SQL Insights Dashboard – Análise de Perfil dos Clientes
+# 🧩 SQL Insights Dashboard – Análise de Perfil dos Clientes
 
 ## 📘 Resumo
 Este projeto foi desenvolvido com **PostgreSQL (pgAdmin4)**, aplicando consultas SQL para analisar o **perfil dos clientes** em um funil de vendas, com métricas como:
